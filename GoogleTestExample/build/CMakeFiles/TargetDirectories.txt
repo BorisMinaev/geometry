@@ -1,1 +1,0 @@
-/home/qwerty787788/cpp/geometry/GoogleTestExample/build/CMakeFiles/GoogleTest.dir

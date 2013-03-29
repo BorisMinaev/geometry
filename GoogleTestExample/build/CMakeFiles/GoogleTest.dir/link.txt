@@ -1,1 +1,0 @@
-/usr/bin/c++    -std=c++11 -Wall    CMakeFiles/GoogleTest.dir/main.cpp.o  -o GoogleTest -rdynamic -lgtest -lgtest_main -lpthread -lboost_chrono-mt -lboost_system-mt 
